@@ -1,0 +1,1361 @@
+{
+  "Version": 1,
+  "Hash": "nqdwrCzypgWSOJA4W9I5YatdY9o3/gq1f26Vy/B1cEc=",
+  "Source": "API",
+  "BasePath": "_content/API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "API\\wwwroot",
+      "Source": "API",
+      "ContentRoot": "C:\\Users\\ADMİN\\Desktop\\e-commerce-v1.0 hosting öncesi\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\ADMİN\\Desktop\\e-commerce-v1.0 hosting öncesi\\API\\wwwroot\\images\\1.jpg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADMİN\\Desktop\\e-commerce-v1.0 hosting öncesi\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "images/1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9d6wy2ctx8",
+      "Integrity": "PZLmsQeLJyRrxHojel/8gE+VOiri9WyWVPPhs8Q5UbQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ADMİN\\Desktop\\e-commerce-v1.0 hosting öncesi\\API\\wwwroot\\images\\10.jpg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADMİN\\Desktop\\e-commerce-v1.0 hosting öncesi\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "images/10#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mh3r9wbo4e",
+      "Integrity": "lty5XXFoZI3cnOj59AkP4CkX57Mc0zGW1sjqQh9k9Ug=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\10.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ADMİN\\Desktop\\e-commerce-v1.0 hosting öncesi\\API\\wwwroot\\images\\11.jpg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADMİN\\Desktop\\e-commerce-v1.0 hosting öncesi\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "images/11#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "76cjntdusd",
+      "Integrity": "Xx+PTKuvlhIk/2b5mna2sUNpkQ9gOUrXrLwqqYw5ivQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\11.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ADMİN\\Desktop\\e-commerce-v1.0 hosting öncesi\\API\\wwwroot\\images\\12.jpg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADMİN\\Desktop\\e-commerce-v1.0 hosting öncesi\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "images/12#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tgb8spt0w5",
+      "Integrity": "DVwmne2wbZo6QukZPj5wcc7nJeM+x8Rg8AqRrOteLPs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\12.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ADMİN\\Desktop\\e-commerce-v1.0 hosting öncesi\\API\\wwwroot\\images\\13.jpg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADMİN\\Desktop\\e-commerce-v1.0 hosting öncesi\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "images/13#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dku9ajkl29",
+      "Integrity": "AweAdtkxdwyFvdxdm4jeYpzKdtB2PnR0l8kX11ESCi4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\13.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ADMİN\\Desktop\\e-commerce-v1.0 hosting öncesi\\API\\wwwroot\\images\\2.jpg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADMİN\\Desktop\\e-commerce-v1.0 hosting öncesi\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "images/2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lvl09k6ho3",
+      "Integrity": "wYesx7e4efp1FZO1x4jKXlghLVldp/FPX3jZEdJ1Zic=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ADMİN\\Desktop\\e-commerce-v1.0 hosting öncesi\\API\\wwwroot\\images\\3.jpg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADMİN\\Desktop\\e-commerce-v1.0 hosting öncesi\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "images/3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bd2i890cz3",
+      "Integrity": "f6izEouqWf4Qlt4ZpKipUHQtazaYLIGmRedkkYhziMU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ADMİN\\Desktop\\e-commerce-v1.0 hosting öncesi\\API\\wwwroot\\images\\4.jpg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADMİN\\Desktop\\e-commerce-v1.0 hosting öncesi\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "images/4#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vy9e64vt4l",
+      "Integrity": "96/GgaxYH+p3Qfg65TI+2n+w60l44/hxvBi053y2Ch8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\4.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ADMİN\\Desktop\\e-commerce-v1.0 hosting öncesi\\API\\wwwroot\\images\\5.jpg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADMİN\\Desktop\\e-commerce-v1.0 hosting öncesi\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "images/5#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "97vu96zcsr",
+      "Integrity": "i1XxEDteb+yvNhd4S22PdmRtrW0Yl4GAs6DWsIlgNgs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\5.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ADMİN\\Desktop\\e-commerce-v1.0 hosting öncesi\\API\\wwwroot\\images\\6.jpg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADMİN\\Desktop\\e-commerce-v1.0 hosting öncesi\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "images/6#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dt0e1lpoff",
+      "Integrity": "X1+j3ucPNpbNUrHruWB3diEGeBIE7sEYgoWCRIbS7G8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\6.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ADMİN\\Desktop\\e-commerce-v1.0 hosting öncesi\\API\\wwwroot\\images\\7.jpg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADMİN\\Desktop\\e-commerce-v1.0 hosting öncesi\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "images/7#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "e67h8yzz3s",
+      "Integrity": "agFI9Rfx3zr445RstaRRMhXeQHgRx8iv9piqVxj+CtA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\7.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ADMİN\\Desktop\\e-commerce-v1.0 hosting öncesi\\API\\wwwroot\\images\\8.jpg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADMİN\\Desktop\\e-commerce-v1.0 hosting öncesi\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "images/8#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bt6pbfiwfg",
+      "Integrity": "QWr+Dem/MQqJCXxePEmjnuPGj7J5FDXVWU3o2bqMtSo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\8.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ADMİN\\Desktop\\e-commerce-v1.0 hosting öncesi\\API\\wwwroot\\images\\9.jpg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADMİN\\Desktop\\e-commerce-v1.0 hosting öncesi\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "images/9#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "a361q4hgh4",
+      "Integrity": "Fs9aBiLKz/Rdh+VZ7RAHcgtsrLjygdaKiYcM6hOOYMY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\9.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "images/1.9d6wy2ctx8.jpg",
+      "AssetFile": "C:\\Users\\ADMİN\\Desktop\\e-commerce-v1.0 hosting öncesi\\API\\wwwroot\\images\\1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "223844"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PZLmsQeLJyRrxHojel/8gE+VOiri9WyWVPPhs8Q5UbQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jul 2025 06:47:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9d6wy2ctx8"
+        },
+        {
+          "Name": "label",
+          "Value": "images/1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PZLmsQeLJyRrxHojel/8gE+VOiri9WyWVPPhs8Q5UbQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/1.jpg",
+      "AssetFile": "C:\\Users\\ADMİN\\Desktop\\e-commerce-v1.0 hosting öncesi\\API\\wwwroot\\images\\1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "223844"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PZLmsQeLJyRrxHojel/8gE+VOiri9WyWVPPhs8Q5UbQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jul 2025 06:47:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PZLmsQeLJyRrxHojel/8gE+VOiri9WyWVPPhs8Q5UbQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/10.jpg",
+      "AssetFile": "C:\\Users\\ADMİN\\Desktop\\e-commerce-v1.0 hosting öncesi\\API\\wwwroot\\images\\10.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "71851"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lty5XXFoZI3cnOj59AkP4CkX57Mc0zGW1sjqQh9k9Ug=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jul 2025 06:56:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lty5XXFoZI3cnOj59AkP4CkX57Mc0zGW1sjqQh9k9Ug="
+        }
+      ]
+    },
+    {
+      "Route": "images/10.mh3r9wbo4e.jpg",
+      "AssetFile": "C:\\Users\\ADMİN\\Desktop\\e-commerce-v1.0 hosting öncesi\\API\\wwwroot\\images\\10.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "71851"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lty5XXFoZI3cnOj59AkP4CkX57Mc0zGW1sjqQh9k9Ug=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jul 2025 06:56:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mh3r9wbo4e"
+        },
+        {
+          "Name": "label",
+          "Value": "images/10.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lty5XXFoZI3cnOj59AkP4CkX57Mc0zGW1sjqQh9k9Ug="
+        }
+      ]
+    },
+    {
+      "Route": "images/11.76cjntdusd.jpg",
+      "AssetFile": "C:\\Users\\ADMİN\\Desktop\\e-commerce-v1.0 hosting öncesi\\API\\wwwroot\\images\\11.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "79934"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Xx+PTKuvlhIk/2b5mna2sUNpkQ9gOUrXrLwqqYw5ivQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jul 2025 06:54:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "76cjntdusd"
+        },
+        {
+          "Name": "label",
+          "Value": "images/11.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Xx+PTKuvlhIk/2b5mna2sUNpkQ9gOUrXrLwqqYw5ivQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/11.jpg",
+      "AssetFile": "C:\\Users\\ADMİN\\Desktop\\e-commerce-v1.0 hosting öncesi\\API\\wwwroot\\images\\11.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "79934"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Xx+PTKuvlhIk/2b5mna2sUNpkQ9gOUrXrLwqqYw5ivQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jul 2025 06:54:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Xx+PTKuvlhIk/2b5mna2sUNpkQ9gOUrXrLwqqYw5ivQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/12.jpg",
+      "AssetFile": "C:\\Users\\ADMİN\\Desktop\\e-commerce-v1.0 hosting öncesi\\API\\wwwroot\\images\\12.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "67431"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DVwmne2wbZo6QukZPj5wcc7nJeM+x8Rg8AqRrOteLPs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jul 2025 06:54:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DVwmne2wbZo6QukZPj5wcc7nJeM+x8Rg8AqRrOteLPs="
+        }
+      ]
+    },
+    {
+      "Route": "images/12.tgb8spt0w5.jpg",
+      "AssetFile": "C:\\Users\\ADMİN\\Desktop\\e-commerce-v1.0 hosting öncesi\\API\\wwwroot\\images\\12.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "67431"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DVwmne2wbZo6QukZPj5wcc7nJeM+x8Rg8AqRrOteLPs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jul 2025 06:54:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tgb8spt0w5"
+        },
+        {
+          "Name": "label",
+          "Value": "images/12.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DVwmne2wbZo6QukZPj5wcc7nJeM+x8Rg8AqRrOteLPs="
+        }
+      ]
+    },
+    {
+      "Route": "images/13.dku9ajkl29.jpg",
+      "AssetFile": "C:\\Users\\ADMİN\\Desktop\\e-commerce-v1.0 hosting öncesi\\API\\wwwroot\\images\\13.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32546"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AweAdtkxdwyFvdxdm4jeYpzKdtB2PnR0l8kX11ESCi4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jul 2025 08:15:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dku9ajkl29"
+        },
+        {
+          "Name": "label",
+          "Value": "images/13.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AweAdtkxdwyFvdxdm4jeYpzKdtB2PnR0l8kX11ESCi4="
+        }
+      ]
+    },
+    {
+      "Route": "images/13.jpg",
+      "AssetFile": "C:\\Users\\ADMİN\\Desktop\\e-commerce-v1.0 hosting öncesi\\API\\wwwroot\\images\\13.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32546"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AweAdtkxdwyFvdxdm4jeYpzKdtB2PnR0l8kX11ESCi4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jul 2025 08:15:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AweAdtkxdwyFvdxdm4jeYpzKdtB2PnR0l8kX11ESCi4="
+        }
+      ]
+    },
+    {
+      "Route": "images/2.jpg",
+      "AssetFile": "C:\\Users\\ADMİN\\Desktop\\e-commerce-v1.0 hosting öncesi\\API\\wwwroot\\images\\2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "68076"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wYesx7e4efp1FZO1x4jKXlghLVldp/FPX3jZEdJ1Zic=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jul 2025 06:57:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wYesx7e4efp1FZO1x4jKXlghLVldp/FPX3jZEdJ1Zic="
+        }
+      ]
+    },
+    {
+      "Route": "images/2.lvl09k6ho3.jpg",
+      "AssetFile": "C:\\Users\\ADMİN\\Desktop\\e-commerce-v1.0 hosting öncesi\\API\\wwwroot\\images\\2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "68076"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wYesx7e4efp1FZO1x4jKXlghLVldp/FPX3jZEdJ1Zic=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jul 2025 06:57:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lvl09k6ho3"
+        },
+        {
+          "Name": "label",
+          "Value": "images/2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wYesx7e4efp1FZO1x4jKXlghLVldp/FPX3jZEdJ1Zic="
+        }
+      ]
+    },
+    {
+      "Route": "images/3.bd2i890cz3.jpg",
+      "AssetFile": "C:\\Users\\ADMİN\\Desktop\\e-commerce-v1.0 hosting öncesi\\API\\wwwroot\\images\\3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "174385"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f6izEouqWf4Qlt4ZpKipUHQtazaYLIGmRedkkYhziMU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jul 2025 06:50:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bd2i890cz3"
+        },
+        {
+          "Name": "label",
+          "Value": "images/3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-f6izEouqWf4Qlt4ZpKipUHQtazaYLIGmRedkkYhziMU="
+        }
+      ]
+    },
+    {
+      "Route": "images/3.jpg",
+      "AssetFile": "C:\\Users\\ADMİN\\Desktop\\e-commerce-v1.0 hosting öncesi\\API\\wwwroot\\images\\3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "174385"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f6izEouqWf4Qlt4ZpKipUHQtazaYLIGmRedkkYhziMU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jul 2025 06:50:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-f6izEouqWf4Qlt4ZpKipUHQtazaYLIGmRedkkYhziMU="
+        }
+      ]
+    },
+    {
+      "Route": "images/4.jpg",
+      "AssetFile": "C:\\Users\\ADMİN\\Desktop\\e-commerce-v1.0 hosting öncesi\\API\\wwwroot\\images\\4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "158534"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"96/GgaxYH+p3Qfg65TI+2n+w60l44/hxvBi053y2Ch8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jul 2025 06:49:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-96/GgaxYH+p3Qfg65TI+2n+w60l44/hxvBi053y2Ch8="
+        }
+      ]
+    },
+    {
+      "Route": "images/4.vy9e64vt4l.jpg",
+      "AssetFile": "C:\\Users\\ADMİN\\Desktop\\e-commerce-v1.0 hosting öncesi\\API\\wwwroot\\images\\4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "158534"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"96/GgaxYH+p3Qfg65TI+2n+w60l44/hxvBi053y2Ch8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jul 2025 06:49:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vy9e64vt4l"
+        },
+        {
+          "Name": "label",
+          "Value": "images/4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-96/GgaxYH+p3Qfg65TI+2n+w60l44/hxvBi053y2Ch8="
+        }
+      ]
+    },
+    {
+      "Route": "images/5.97vu96zcsr.jpg",
+      "AssetFile": "C:\\Users\\ADMİN\\Desktop\\e-commerce-v1.0 hosting öncesi\\API\\wwwroot\\images\\5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "440668"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"i1XxEDteb+yvNhd4S22PdmRtrW0Yl4GAs6DWsIlgNgs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jul 2025 06:55:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "97vu96zcsr"
+        },
+        {
+          "Name": "label",
+          "Value": "images/5.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-i1XxEDteb+yvNhd4S22PdmRtrW0Yl4GAs6DWsIlgNgs="
+        }
+      ]
+    },
+    {
+      "Route": "images/5.jpg",
+      "AssetFile": "C:\\Users\\ADMİN\\Desktop\\e-commerce-v1.0 hosting öncesi\\API\\wwwroot\\images\\5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "440668"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"i1XxEDteb+yvNhd4S22PdmRtrW0Yl4GAs6DWsIlgNgs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jul 2025 06:55:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-i1XxEDteb+yvNhd4S22PdmRtrW0Yl4GAs6DWsIlgNgs="
+        }
+      ]
+    },
+    {
+      "Route": "images/6.dt0e1lpoff.jpg",
+      "AssetFile": "C:\\Users\\ADMİN\\Desktop\\e-commerce-v1.0 hosting öncesi\\API\\wwwroot\\images\\6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "204870"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X1+j3ucPNpbNUrHruWB3diEGeBIE7sEYgoWCRIbS7G8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jul 2025 06:53:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dt0e1lpoff"
+        },
+        {
+          "Name": "label",
+          "Value": "images/6.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-X1+j3ucPNpbNUrHruWB3diEGeBIE7sEYgoWCRIbS7G8="
+        }
+      ]
+    },
+    {
+      "Route": "images/6.jpg",
+      "AssetFile": "C:\\Users\\ADMİN\\Desktop\\e-commerce-v1.0 hosting öncesi\\API\\wwwroot\\images\\6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "204870"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X1+j3ucPNpbNUrHruWB3diEGeBIE7sEYgoWCRIbS7G8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jul 2025 06:53:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-X1+j3ucPNpbNUrHruWB3diEGeBIE7sEYgoWCRIbS7G8="
+        }
+      ]
+    },
+    {
+      "Route": "images/7.e67h8yzz3s.jpg",
+      "AssetFile": "C:\\Users\\ADMİN\\Desktop\\e-commerce-v1.0 hosting öncesi\\API\\wwwroot\\images\\7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "154276"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"agFI9Rfx3zr445RstaRRMhXeQHgRx8iv9piqVxj+CtA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jul 2025 06:48:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e67h8yzz3s"
+        },
+        {
+          "Name": "label",
+          "Value": "images/7.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-agFI9Rfx3zr445RstaRRMhXeQHgRx8iv9piqVxj+CtA="
+        }
+      ]
+    },
+    {
+      "Route": "images/7.jpg",
+      "AssetFile": "C:\\Users\\ADMİN\\Desktop\\e-commerce-v1.0 hosting öncesi\\API\\wwwroot\\images\\7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "154276"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"agFI9Rfx3zr445RstaRRMhXeQHgRx8iv9piqVxj+CtA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jul 2025 06:48:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-agFI9Rfx3zr445RstaRRMhXeQHgRx8iv9piqVxj+CtA="
+        }
+      ]
+    },
+    {
+      "Route": "images/8.bt6pbfiwfg.jpg",
+      "AssetFile": "C:\\Users\\ADMİN\\Desktop\\e-commerce-v1.0 hosting öncesi\\API\\wwwroot\\images\\8.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "171119"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QWr+Dem/MQqJCXxePEmjnuPGj7J5FDXVWU3o2bqMtSo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jul 2025 06:48:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bt6pbfiwfg"
+        },
+        {
+          "Name": "label",
+          "Value": "images/8.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QWr+Dem/MQqJCXxePEmjnuPGj7J5FDXVWU3o2bqMtSo="
+        }
+      ]
+    },
+    {
+      "Route": "images/8.jpg",
+      "AssetFile": "C:\\Users\\ADMİN\\Desktop\\e-commerce-v1.0 hosting öncesi\\API\\wwwroot\\images\\8.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "171119"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QWr+Dem/MQqJCXxePEmjnuPGj7J5FDXVWU3o2bqMtSo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jul 2025 06:48:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QWr+Dem/MQqJCXxePEmjnuPGj7J5FDXVWU3o2bqMtSo="
+        }
+      ]
+    },
+    {
+      "Route": "images/9.a361q4hgh4.jpg",
+      "AssetFile": "C:\\Users\\ADMİN\\Desktop\\e-commerce-v1.0 hosting öncesi\\API\\wwwroot\\images\\9.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "64315"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Fs9aBiLKz/Rdh+VZ7RAHcgtsrLjygdaKiYcM6hOOYMY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jul 2025 06:56:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a361q4hgh4"
+        },
+        {
+          "Name": "label",
+          "Value": "images/9.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Fs9aBiLKz/Rdh+VZ7RAHcgtsrLjygdaKiYcM6hOOYMY="
+        }
+      ]
+    },
+    {
+      "Route": "images/9.jpg",
+      "AssetFile": "C:\\Users\\ADMİN\\Desktop\\e-commerce-v1.0 hosting öncesi\\API\\wwwroot\\images\\9.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "64315"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Fs9aBiLKz/Rdh+VZ7RAHcgtsrLjygdaKiYcM6hOOYMY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Jul 2025 06:56:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Fs9aBiLKz/Rdh+VZ7RAHcgtsrLjygdaKiYcM6hOOYMY="
+        }
+      ]
+    }
+  ]
+}
